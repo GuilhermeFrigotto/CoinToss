@@ -7,7 +7,7 @@
 
 body {
     height: 100%;
-    background: #1f5a82;
+    background: linear-gradient(#1f5a82 25%, #1aaa, #1f5a );
 }
 
 .container {
